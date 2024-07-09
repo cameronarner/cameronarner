@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cameronarner
 - 👀 I’m interested in growing
-- 🌱 I’m currently learning javascript and HTML
+- 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me Cameron Arner on Linked In
+- 📫 How to reach me @Cameron Arner on Linked In
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My middle name is Danger.
 
